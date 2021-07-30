@@ -1,0 +1,227 @@
+html {
+    background: url(./imge/8618f16e3f9f1c7beb4bda634468ed8c.jpg) no-repeat center center fixed;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;   
+    overflow: hidden;      
+}
+
+ul {
+margin: 0;
+padding: 0;
+list-style: none;
+width: 50px;
+position: fixed;
+top: 35px;
+left: 1429px; 
+ 
+   
+}
+
+li.cor {
+padding: 2px;
+   
+}
+
+ul.menu1 {
+position: absolute;
+left: -100px;
+top: 0;
+display: none;
+width: 100px;
+
+
+}
+
+ul li a {
+   display: block;
+   text-decoration: none;
+   color: #0a0a0a;
+   border: 1px solid rgba(32, 32, 32, 0.801);
+   background-color: rgba(192, 192, 192, 0.171);
+   padding: 5px;
+   border-radius: 100px;
+
+}
+
+/* Fix IE. Hide from IE Mac \*/
+* html ul li { float: left; }
+* html ul li a { height: 1%; }
+/* End */
+
+li:hover ul { display: block; }
+
+ul li {
+position: relative;
+}
+
+hr.linhao {
+    top: -725px;
+    left: 0px;
+    margin: auto;
+    position: relative;   
+}
+
+hr.linha {
+    top: -775px;
+    left: 0px;
+    margin: auto;
+    position: relative;   
+}
+
+div.tex {
+    top: 170px;
+    left: 0px;
+    margin: auto;
+    position: relative;    
+}
+
+img.img{
+  border-radius: 20px;  
+}
+
+div.texto1 {
+    background-color: rgba(116, 116, 116, 0.815);
+    border: 1px solid rgba(0, 0, 0, 0.616);
+    border-radius: 20px;
+    width: 20%;
+    padding: 1%;
+    top: -700px;
+    left: 400px;
+    margin: auto;
+    position: relative;
+
+}
+
+div.ft {
+    background-color: rgba(116, 116, 116, 0.815);
+    border: 1px solid rgba(0, 0, 0, 0.616);
+    border-radius: 20px;
+    width: 34.5%;
+    padding: 0.7%;
+    top: -80px;
+    left: -450px;
+    margin: auto;
+    position: relative;
+    
+
+}
+
+
+div.texto {
+    color:rgb(0, 0, 0);
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.719);
+    border: 1px solid rgba(0, 0, 0, 0.616);
+    top: -200px;
+    left: 0%; 
+    border-radius: 20px;
+    margin: auto;
+    padding: 0.4%;
+}
+
+div.cabeçalho {
+    width: 93%;
+    padding: 3.5%;
+    background-color: rgba(255, 255, 255, 0.548);
+    border: 1px solid rgba(0, 0, 0, 0.616);
+    border-radius: 20px;
+}
+
+html.chevrolet {
+    background: rgba(0, 0, 0, 0.986) no-repeat center center fixed;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;   
+    overflow: hidden;
+}
+
+
+div.img {
+    width: 20%;
+    position: relative;
+    top: -128px;
+    left: 0px; 
+    margin: auto;
+
+}
+
+
+div.home {
+    position: relative;
+    top: -230px;
+    left: -700px;  
+    width: 3% !important; 
+    margin: auto;
+    border: 1px solid rgba(32, 32, 32, 0.801);
+    background-color: rgba(145, 145, 145, 0.158);
+    border-radius: 100px;
+}
+
+
+div.dois {
+    width: 23.2% !important; 
+    margin: auto;
+    border: 1px solid rgba(124, 124, 124, 0.801);
+    background-color: rgba(255, 255, 255, 0.404);
+    border-radius: 50px;
+    position: relative;
+    top: -180px;
+    left: 50px;   
+}
+
+div.tres {
+    border-radius: 100px;  
+    width: 8% !important;
+    margin: auto;
+    position: relative;
+    top: -110px;
+    left: 380px;   
+}
+
+div.quatro { 
+    border-radius: 100px;  
+    width: 8% !important;
+    margin: auto;
+    position: relative;
+    top: -220px;
+    left: -260px; 
+}
+
+div.cinco  { 
+    border-radius: 100px;  
+    width: 8% !important;
+    margin: auto;
+    position: relative;
+    top: -325px;
+    left: 205px; 
+}
+
+div.seis { 
+    border-radius: 100px;  
+    width: 8% !important;
+    position: relative;
+    margin: auto;
+    top: -450px;
+    left: -100px; 
+}
+div.sete { 
+    border-radius: 100px;  
+    width: 8% !important;
+    margin: auto;
+    position: relative;
+    top: -565px;
+    left: 70px; 
+}
+
+div.oito button {
+    
+    border-radius: 20px;
+    background-color: rgba(71, 69, 69, 0.5); 
+    position: relative;
+    margin: auto;
+    top: -545px;
+    left: 767px;
+}
